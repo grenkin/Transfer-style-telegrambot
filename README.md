@@ -1,3 +1,3 @@
-# Transfer-style-telegrambot
+# telegrambot
 
 style transfer model
